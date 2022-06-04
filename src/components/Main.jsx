@@ -20,10 +20,10 @@ const Main = () => {
         } else {
           return str;
         }
-      };
+    };
 
   return (
-    <div className='w-full h-[550px] text-white'>
+    <div className=' w-full h-[550px] text-white'>
         <div className='w-full h-full'>
             <div className='absolute w-full h-[550px] bg-gradient-to-r from-black'></div>
             <img 
